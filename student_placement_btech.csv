@@ -1,0 +1,401 @@
+student_id,gender,branch,tenth_percentage,twelfth_percentage,cgpa,backlogs,internship_done,placed,salary_lpa,specialisation,higher_education
+STU1000,Female,CSE,76.6,80.5,7.85,0,1,Yes,13.76,Cybersecurity,No
+STU1001,Male,Data Science,75.7,71.7,8.77,0,0,Yes,15.24,NLP Engineer,Yes
+STU1002,Male,ECE,85.7,69.3,8.82,0,1,Yes,11.69,Embedded Systems,Yes
+STU1003,Male,ECE,73.4,69.3,7.89,0,0,Yes,9.16,Embedded Systems,Yes
+STU1004,Male,CSE,58.9,56.8,7.62,0,0,Yes,14.8,UI/UX Design,No
+STU1005,Male,CSE,67.9,77.1,6.89,2,0,No,,NA,Yes
+STU1006,Male,ECE,63.9,88.7,6.58,0,0,No,,NA,No
+STU1007,Male,Mechanical,78.7,59.8,7.2,0,0,Yes,9.43,Business Intelligence Analyst,No
+STU1008,Female,AIML,79.1,62.5,6.91,0,1,Yes,15.36,Data Scientist,No
+STU1009,Female,Data Science,72.0,71.1,7.74,0,0,Yes,17.12,MLOps Engineer,Yes
+STU1010,Male,EEE,96.5,73.9,6.86,0,0,Yes,10.42,Cybersecurity,No
+STU1011,Male,Data Science,86.2,61.8,6.45,1,0,Yes,12.06,MLOps Engineer,No
+STU1012,Female,Data Science,58.4,60.7,7.59,0,1,Yes,15.82,NLP Engineer,Yes
+STU1013,Male,Mechanical,85.4,75.7,7.58,0,0,Yes,9.68,Cloud & DevOps,Yes
+STU1014,Male,Data Science,75.0,59.2,7.3,2,0,Yes,15.15,Product Management,No
+STU1015,Male,Data Science,73.4,84.6,6.75,0,1,Yes,14.36,Data Scientist,Yes
+STU1016,Female,Mechanical,60.4,77.2,7.71,0,0,No,,NA,No
+STU1017,Female,Civil,71.2,80.1,7.05,0,1,No,,NA,Yes
+STU1018,Male,IT,87.3,65.6,8.33,0,0,Yes,14.51,Full Stack Development,Yes
+STU1019,Male,AIDS,81.3,83.8,7.12,0,0,Yes,16.82,Data Analyst,Yes
+STU1020,Female,Civil,76.1,62.9,6.97,1,0,No,,NA,No
+STU1021,Female,ECE,86.1,87.6,6.32,1,0,No,,NA,Yes
+STU1022,Female,Mechanical,88.0,77.6,7.34,0,0,No,,NA,No
+STU1023,Female,IT,81.6,89.4,6.82,1,0,No,,NA,No
+STU1024,Male,Civil,93.6,50.0,7.37,0,0,Yes,5.28,Machine Learning Engineer,No
+STU1025,Female,IT,78.9,71.0,8.14,0,0,Yes,10.68,Data Scientist,Yes
+STU1026,Male,CSE,58.1,71.8,7.48,0,0,Yes,11.67,Data Analyst,No
+STU1027,Female,Data Science,92.8,68.8,7.72,0,0,Yes,16.92,Data Scientist,Yes
+STU1028,Male,AIML,73.0,83.2,6.67,1,0,No,,NA,Yes
+STU1029,Female,Biotech,72.7,79.1,7.7,0,0,Yes,8.0,Product Management,Yes
+STU1030,Male,IT,87.7,67.0,7.49,0,0,Yes,11.0,NLP Engineer,No
+STU1031,Male,EEE,74.1,59.4,7.11,0,1,Yes,12.9,Marketing & HR,No
+STU1032,Male,IT,80.6,74.1,7.67,0,0,Yes,14.15,Product Management,Yes
+STU1033,Male,Biotech,63.8,69.8,7.19,1,0,Yes,7.23,Product Management,No
+STU1034,Female,ECE,70.0,72.4,7.09,0,0,Yes,11.97,Cloud & DevOps,No
+STU1035,Female,AIML,96.9,75.7,7.76,0,0,Yes,16.45,Full Stack Development,Yes
+STU1036,Female,CSE,77.3,54.8,7.63,0,0,Yes,11.12,QA Automation,No
+STU1037,Female,AIML,78.6,98.6,7.38,0,1,Yes,16.95,NLP Engineer,No
+STU1038,Male,Data Science,81.0,73.7,7.23,0,0,Yes,12.95,Data Engineering,No
+STU1039,Male,CSE,89.4,81.5,6.35,2,1,No,,NA,Yes
+STU1040,Male,AIDS,68.9,88.0,8.11,0,0,Yes,18.26,Cybersecurity,No
+STU1041,Male,AIDS,83.9,95.9,6.14,0,1,Yes,17.91,Machine Learning Engineer,No
+STU1042,Male,Civil,72.3,75.0,6.51,0,0,Yes,8.38,Product Management,Yes
+STU1043,Male,Data Science,62.5,74.7,6.95,0,1,Yes,16.03,NLP Engineer,No
+STU1044,Male,CSE,82.7,64.8,6.44,0,0,Yes,11.02,Data Analyst,No
+STU1045,Male,ECE,70.2,70.8,8.79,0,1,Yes,12.64,Business Analyst,No
+STU1046,Male,AIDS,65.7,76.3,8.13,0,0,Yes,14.62,Data Scientist,No
+STU1047,Male,Civil,61.9,75.8,8.58,0,0,No,,NA,No
+STU1048,Male,EEE,85.8,61.6,7.63,0,0,No,,NA,No
+STU1049,Male,Mechanical,83.2,77.0,6.21,1,0,Yes,7.75,Software Development,No
+STU1050,Female,Mechanical,81.5,67.2,7.63,0,0,Yes,9.71,AI Research Engineer,No
+STU1051,Male,IT,80.9,66.9,7.61,0,0,Yes,13.85,QA Automation,Yes
+STU1052,Female,IT,82.7,62.1,9.08,0,0,Yes,11.86,UI/UX Design,Yes
+STU1053,Female,AIML,68.3,81.9,7.99,0,1,Yes,16.16,Data Analyst,No
+STU1054,Male,CSE,69.8,83.6,8.44,0,1,Yes,16.36,Cloud & DevOps,No
+STU1055,Male,Civil,86.2,93.0,7.77,0,0,Yes,8.99,Machine Learning Engineer,No
+STU1056,Female,Data Science,70.5,65.1,7.18,0,1,Yes,14.08,AI Research Engineer,No
+STU1057,Male,ECE,77.2,77.4,6.67,2,0,Yes,8.67,MLOps Engineer,Yes
+STU1058,Male,IT,86.3,74.1,7.65,0,1,No,,NA,No
+STU1059,Male,Data Science,75.4,100.0,8.71,0,0,Yes,18.24,Data Analyst,Yes
+STU1060,Female,Data Science,69.4,63.3,7.96,0,0,Yes,15.38,Data Scientist,No
+STU1061,Female,IT,75.8,81.1,7.83,0,0,Yes,13.34,Cloud & DevOps,Yes
+STU1062,Male,Data Science,77.3,65.5,7.83,0,0,Yes,13.75,Machine Learning Engineer,No
+STU1063,Female,Mechanical,73.5,82.6,6.04,1,0,No,,NA,No
+STU1064,Male,ECE,65.5,75.7,7.59,0,0,Yes,8.95,UI/UX Design,Yes
+STU1065,Male,EEE,69.2,75.5,7.75,0,0,Yes,11.71,Cloud & DevOps,Yes
+STU1066,Male,Civil,66.6,77.6,7.45,1,0,Yes,7.38,QA Automation,No
+STU1067,Male,Biotech,88.8,84.5,7.9,0,0,No,,NA,No
+STU1068,Female,AIDS,68.6,79.2,6.16,1,1,No,,NA,No
+STU1069,Male,AIDS,83.2,100.0,7.86,0,0,Yes,14.94,MLOps Engineer,No
+STU1070,Male,AIML,89.4,83.5,7.91,0,0,Yes,15.28,AI Research Engineer,No
+STU1071,Male,IT,74.8,81.6,7.99,0,0,Yes,10.97,Deep Learning Engineer,No
+STU1072,Male,AIDS,75.6,69.1,6.7,0,0,Yes,14.26,UI/UX Design,No
+STU1073,Female,CSE,100.0,55.3,7.47,1,1,Yes,16.25,MLOps Engineer,No
+STU1074,Male,AIDS,61.9,69.3,8.02,0,1,Yes,17.59,Data Scientist,No
+STU1075,Male,AIML,78.6,63.2,8.38,0,1,Yes,17.45,Deep Learning Engineer,Yes
+STU1076,Female,AIDS,84.8,66.7,6.76,2,0,Yes,12.37,Data Engineering,Yes
+STU1077,Male,IT,78.5,67.5,7.59,0,0,Yes,10.79,Data Engineering,No
+STU1078,Male,AIML,84.3,53.7,9.33,0,0,Yes,16.23,Machine Learning Engineer,No
+STU1079,Male,IT,71.4,82.5,7.57,0,0,Yes,12.96,UI/UX Design,No
+STU1080,Male,Mechanical,76.9,79.0,6.69,0,1,Yes,7.69,Business Analyst,No
+STU1081,Male,ECE,66.0,70.7,8.18,0,0,Yes,13.25,Mobile App Development,No
+STU1082,Male,Biotech,71.5,91.7,6.97,2,0,Yes,5.04,QA Automation,No
+STU1083,Male,Civil,65.4,83.2,7.76,0,0,Yes,8.89,Embedded Systems,Yes
+STU1084,Male,Mechanical,88.3,58.8,9.31,0,1,Yes,13.12,Data Scientist,No
+STU1085,Female,AIML,90.7,66.9,6.96,0,1,Yes,16.31,Deep Learning Engineer,No
+STU1086,Male,ECE,85.7,64.7,7.8,0,0,Yes,10.59,UI/UX Design,No
+STU1087,Female,EEE,50.0,63.8,7.35,1,0,No,,NA,No
+STU1088,Male,Mechanical,65.5,90.3,7.17,0,0,No,,NA,Yes
+STU1089,Male,Data Science,73.6,75.3,6.11,1,1,Yes,14.41,NLP Engineer,No
+STU1090,Male,AIML,63.6,85.6,8.7,0,1,Yes,16.96,Product Management,Yes
+STU1091,Female,AIDS,68.2,78.6,7.41,0,1,Yes,17.48,MLOps Engineer,Yes
+STU1092,Male,AIDS,72.0,74.7,7.58,0,0,Yes,16.12,Deep Learning Engineer,No
+STU1093,Male,Biotech,79.1,80.6,7.05,0,1,Yes,6.81,Business Intelligence Analyst,No
+STU1094,Male,CSE,65.6,95.3,8.83,0,1,Yes,16.45,UI/UX Design,Yes
+STU1095,Female,Biotech,76.5,79.9,5.64,2,1,No,,NA,Yes
+STU1096,Male,AIML,71.8,71.9,7.65,0,0,Yes,13.87,NLP Engineer,Yes
+STU1097,Male,Data Science,72.1,82.5,6.96,0,1,Yes,16.39,Machine Learning Engineer,Yes
+STU1098,Male,AIDS,71.1,83.0,7.72,0,0,No,,NA,Yes
+STU1099,Male,CSE,86.1,80.3,7.68,0,0,Yes,11.21,Cloud & DevOps,Yes
+STU1100,Male,EEE,72.4,81.5,6.65,0,0,No,,NA,Yes
+STU1101,Male,Data Science,77.8,75.2,7.95,0,1,Yes,16.95,Deep Learning Engineer,No
+STU1102,Male,AIML,72.1,79.5,8.55,0,1,Yes,20.33,MLOps Engineer,No
+STU1103,Male,Data Science,75.8,85.0,7.22,0,0,Yes,12.66,Machine Learning Engineer,No
+STU1104,Female,AIDS,86.1,87.1,8.14,0,0,Yes,17.42,Computer Vision Engineer,No
+STU1105,Female,IT,84.8,70.9,7.42,2,0,No,,NA,No
+STU1106,Male,CSE,76.7,75.0,7.69,0,0,Yes,15.39,Mobile App Development,Yes
+STU1107,Male,EEE,69.8,94.9,7.94,0,1,Yes,10.93,AI Research Engineer,No
+STU1108,Female,AIDS,65.9,85.6,6.49,2,0,Yes,14.1,Business Intelligence Analyst,No
+STU1109,Female,AIML,84.2,80.3,8.11,0,0,Yes,15.5,Computer Vision Engineer,No
+STU1110,Female,Biotech,69.0,74.8,7.39,0,1,No,,NA,No
+STU1111,Male,AIDS,87.8,72.5,6.79,1,1,No,,NA,Yes
+STU1112,Female,AIDS,74.8,78.1,6.66,0,0,Yes,14.15,AI Research Engineer,Yes
+STU1113,Male,AIML,69.8,76.4,6.89,1,1,Yes,19.33,NLP Engineer,No
+STU1114,Male,AIML,72.9,69.3,7.62,0,0,No,,NA,Yes
+STU1115,Female,EEE,63.5,59.9,7.61,0,0,Yes,9.46,Software Development,Yes
+STU1116,Male,Data Science,75.9,77.1,6.75,1,0,No,,NA,Yes
+STU1117,Female,IT,86.6,72.4,8.73,0,0,Yes,14.59,Data Analyst,No
+STU1118,Female,EEE,68.0,73.8,7.38,0,1,Yes,7.66,Business Intelligence Analyst,No
+STU1119,Male,AIDS,81.2,65.7,7.14,0,0,Yes,16.27,NLP Engineer,Yes
+STU1120,Male,Biotech,93.3,72.9,7.87,0,0,Yes,5.29,NLP Engineer,No
+STU1121,Female,Mechanical,84.9,70.0,7.76,0,0,Yes,9.88,Cloud & DevOps,No
+STU1122,Female,AIML,78.1,75.0,7.6,0,0,Yes,15.23,Business Intelligence Analyst,No
+STU1123,Male,Mechanical,78.2,79.0,6.7,2,0,No,,NA,Yes
+STU1124,Female,AIML,87.6,95.5,8.71,0,0,Yes,19.98,Data Analyst,Yes
+STU1125,Male,CSE,86.7,75.8,6.71,1,1,Yes,14.81,Cloud & DevOps,No
+STU1126,Male,AIDS,69.9,65.6,9.37,0,0,Yes,20.19,AI Research Engineer,Yes
+STU1127,Male,CSE,56.8,68.7,6.86,0,0,Yes,11.9,Cloud & DevOps,Yes
+STU1128,Male,EEE,79.5,77.4,6.72,0,0,Yes,7.67,Data Analyst,No
+STU1129,Female,Mechanical,87.5,68.2,9.09,0,0,No,,NA,Yes
+STU1130,Male,Mechanical,82.9,60.8,6.59,2,0,Yes,7.68,Business Analyst,No
+STU1131,Female,CSE,89.8,69.3,9.05,0,0,Yes,16.0,Data Scientist,Yes
+STU1132,Male,Civil,91.5,72.9,5.86,0,0,No,,NA,Yes
+STU1133,Male,AIDS,62.1,68.0,8.51,0,0,Yes,17.16,MLOps Engineer,Yes
+STU1134,Male,Data Science,78.5,69.5,7.4,2,0,Yes,14.99,Business Intelligence Analyst,Yes
+STU1135,Female,AIML,67.3,72.6,7.96,0,0,Yes,18.67,Deep Learning Engineer,Yes
+STU1136,Female,IT,83.1,81.1,7.51,0,0,No,,NA,No
+STU1137,Male,Data Science,62.7,86.8,6.39,0,0,Yes,12.8,Finance & Operations,No
+STU1138,Male,IT,70.5,89.5,7.7,0,1,Yes,12.89,Machine Learning Engineer,No
+STU1139,Male,AIML,89.8,74.7,7.5,0,1,Yes,19.1,UI/UX Design,No
+STU1140,Male,Data Science,95.6,71.5,9.25,0,0,Yes,15.67,Data Analyst,No
+STU1141,Female,Data Science,84.5,87.7,8.27,0,0,Yes,18.06,Data Engineering,No
+STU1142,Male,CSE,84.9,84.6,6.53,0,0,Yes,10.93,UI/UX Design,Yes
+STU1143,Male,EEE,66.2,53.6,5.82,2,0,No,,NA,Yes
+STU1144,Male,AIML,85.2,89.0,7.16,0,0,Yes,14.91,Machine Learning Engineer,No
+STU1145,Male,ECE,94.3,60.2,7.47,1,0,No,,NA,No
+STU1146,Male,CSE,77.4,77.8,5.87,0,0,Yes,9.28,Computer Vision Engineer,No
+STU1147,Male,Data Science,57.3,73.1,7.37,0,1,Yes,14.17,Cybersecurity,No
+STU1148,Female,IT,84.7,77.7,6.23,1,0,No,,NA,Yes
+STU1149,Male,CSE,72.9,63.4,6.55,0,0,Yes,11.94,Data Scientist,No
+STU1150,Male,AIML,87.6,64.1,7.34,2,0,Yes,17.14,Data Scientist,No
+STU1151,Male,Mechanical,72.7,66.1,7.85,0,1,Yes,11.35,Full Stack Development,No
+STU1152,Male,Mechanical,67.6,68.5,7.3,0,0,Yes,10.27,Full Stack Development,No
+STU1153,Male,Biotech,97.6,74.4,6.32,0,0,No,,NA,No
+STU1154,Female,Biotech,80.1,72.9,6.77,0,0,Yes,4.0,UI/UX Design,Yes
+STU1155,Female,IT,84.1,81.6,7.2,0,0,Yes,10.0,Product Management,Yes
+STU1156,Male,Biotech,72.2,71.2,6.92,0,1,No,,NA,Yes
+STU1157,Male,IT,62.8,87.7,5.33,0,0,Yes,7.09,Business Intelligence Analyst,Yes
+STU1158,Male,AIDS,75.5,79.8,8.88,0,1,Yes,18.06,Business Intelligence Analyst,No
+STU1159,Male,Civil,100.0,85.2,7.68,0,0,No,,NA,No
+STU1160,Female,AIDS,68.4,57.9,7.28,0,0,Yes,15.25,AI Research Engineer,No
+STU1161,Male,ECE,70.4,59.8,7.58,0,0,Yes,8.12,Cybersecurity,Yes
+STU1162,Male,Data Science,67.2,90.9,6.82,2,1,Yes,15.1,Data Analyst,No
+STU1163,Male,CSE,77.9,88.8,8.19,0,1,Yes,16.54,Full Stack Development,No
+STU1164,Male,AIDS,69.4,89.2,7.47,1,0,Yes,15.35,Deep Learning Engineer,Yes
+STU1165,Male,AIML,67.6,72.1,7.89,0,0,Yes,14.85,QA Automation,Yes
+STU1166,Male,CSE,64.2,83.3,6.61,0,0,Yes,12.33,Full Stack Development,No
+STU1167,Male,Data Science,64.0,79.6,9.12,0,0,Yes,17.89,MLOps Engineer,No
+STU1168,Female,CSE,73.1,68.1,6.81,2,0,Yes,10.31,Software Development,Yes
+STU1169,Male,IT,78.5,65.7,6.62,0,0,No,,NA,Yes
+STU1170,Male,Data Science,77.5,71.6,7.64,0,0,Yes,17.66,Software Development,No
+STU1171,Female,Data Science,72.2,81.6,6.58,0,1,Yes,14.53,QA Automation,No
+STU1172,Male,Mechanical,68.2,75.0,7.85,0,1,Yes,8.0,Marketing & HR,Yes
+STU1173,Female,IT,61.3,79.4,8.08,0,0,Yes,11.1,Data Engineering,No
+STU1174,Female,Data Science,83.7,66.4,6.8,0,0,Yes,14.87,Data Engineering,Yes
+STU1175,Female,AIDS,61.7,74.5,5.78,1,1,Yes,13.4,AI Research Engineer,Yes
+STU1176,Female,Data Science,69.0,80.4,7.63,0,0,Yes,14.32,Data Analyst,No
+STU1177,Male,CSE,77.3,61.9,5.9,0,0,No,,NA,No
+STU1178,Male,AIML,78.5,65.4,6.81,1,0,Yes,13.67,AI Research Engineer,No
+STU1179,Female,Data Science,88.1,68.2,7.05,0,1,Yes,16.95,Machine Learning Engineer,No
+STU1180,Male,Data Science,66.7,79.3,8.15,0,1,Yes,17.53,Deep Learning Engineer,No
+STU1181,Male,EEE,53.3,66.0,8.7,0,1,Yes,12.55,Full Stack Development,Yes
+STU1182,Male,Data Science,76.0,77.7,7.92,0,1,Yes,19.1,Data Analyst,No
+STU1183,Male,AIDS,78.9,72.4,6.86,2,0,Yes,16.88,AI Research Engineer,No
+STU1184,Female,EEE,80.5,77.4,8.45,0,0,Yes,9.04,Deep Learning Engineer,Yes
+STU1185,Female,CSE,73.1,69.7,7.03,1,1,Yes,14.24,Cybersecurity,No
+STU1186,Female,Data Science,73.8,76.9,7.76,0,1,Yes,18.76,Deep Learning Engineer,No
+STU1187,Female,AIML,86.7,70.7,9.27,0,0,Yes,17.5,Machine Learning Engineer,No
+STU1188,Male,CSE,73.9,53.6,8.48,0,0,Yes,16.12,QA Automation,No
+STU1189,Female,AIML,59.3,70.5,6.49,2,1,No,,NA,No
+STU1190,Male,AIDS,94.8,77.3,7.42,0,1,Yes,16.13,Machine Learning Engineer,Yes
+STU1191,Male,Biotech,86.3,51.9,7.2,2,0,No,,NA,Yes
+STU1192,Female,AIDS,85.7,59.2,7.61,0,0,Yes,16.3,AI Research Engineer,No
+STU1193,Male,AIDS,81.4,69.8,8.43,0,0,Yes,14.5,Data Engineering,No
+STU1194,Male,CSE,100.0,75.8,7.97,0,1,Yes,14.22,Business Analyst,No
+STU1195,Male,AIML,73.4,65.5,7.62,0,1,Yes,19.31,Data Engineering,No
+STU1196,Male,Data Science,69.4,74.7,8.15,0,0,Yes,15.28,MLOps Engineer,No
+STU1197,Female,ECE,82.8,77.3,6.97,2,1,Yes,11.6,Machine Learning Engineer,No
+STU1198,Male,AIML,72.9,71.3,8.33,0,0,Yes,19.62,Data Scientist,Yes
+STU1199,Male,AIDS,73.6,77.8,6.52,2,1,Yes,15.28,Data Scientist,No
+STU1200,Male,IT,68.8,82.7,8.08,0,1,Yes,15.11,Software Development,No
+STU1201,Female,ECE,82.1,92.8,8.62,0,0,Yes,12.73,Embedded Systems,Yes
+STU1202,Male,AIML,65.6,56.2,6.7,0,0,Yes,17.4,Marketing & HR,No
+STU1203,Male,EEE,84.5,73.4,8.75,0,1,Yes,14.68,Embedded Systems,Yes
+STU1204,Male,CSE,66.7,98.5,7.65,0,0,Yes,13.57,Data Scientist,No
+STU1205,Male,AIML,79.1,81.3,7.52,0,0,Yes,18.17,Data Scientist,No
+STU1206,Male,EEE,80.2,66.1,7.83,0,0,No,,NA,Yes
+STU1207,Male,AIDS,96.8,87.5,7.82,0,0,Yes,13.91,Data Scientist,No
+STU1208,Male,Mechanical,72.9,64.1,8.83,0,1,Yes,8.5,Business Analyst,No
+STU1209,Male,ECE,78.6,84.9,7.29,1,0,Yes,11.9,Machine Learning Engineer,Yes
+STU1210,Male,AIDS,93.3,72.4,5.88,2,1,Yes,12.66,Data Analyst,Yes
+STU1211,Male,Data Science,67.9,57.5,7.02,1,1,Yes,17.48,Business Intelligence Analyst,No
+STU1212,Female,AIML,78.7,61.1,8.14,0,0,Yes,14.4,AI Research Engineer,No
+STU1213,Male,Data Science,74.6,90.7,6.23,2,0,No,,NA,Yes
+STU1214,Female,AIDS,63.0,71.5,7.17,2,1,Yes,17.66,AI Research Engineer,No
+STU1215,Female,CSE,51.0,73.5,7.15,0,0,Yes,13.49,Data Scientist,No
+STU1216,Male,IT,85.0,92.5,7.19,2,0,Yes,12.46,Mobile App Development,No
+STU1217,Female,AIDS,75.3,62.9,8.41,0,0,Yes,14.53,MLOps Engineer,No
+STU1218,Male,IT,78.6,74.1,9.72,0,0,Yes,13.86,Data Engineering,Yes
+STU1219,Female,AIDS,80.0,72.6,7.38,0,0,Yes,17.29,Machine Learning Engineer,No
+STU1220,Male,IT,72.5,73.7,6.88,1,0,No,,NA,No
+STU1221,Male,AIML,70.9,75.1,6.91,1,0,Yes,14.75,MLOps Engineer,Yes
+STU1222,Male,ECE,93.0,50.0,7.17,1,0,Yes,11.34,Cloud & DevOps,No
+STU1223,Male,AIML,90.5,53.3,8.38,0,0,Yes,17.69,Deep Learning Engineer,No
+STU1224,Male,AIDS,74.3,59.9,7.09,0,1,Yes,16.26,MLOps Engineer,Yes
+STU1225,Female,Data Science,66.9,91.5,6.7,2,0,No,,NA,No
+STU1226,Male,IT,90.7,81.2,8.24,0,1,Yes,13.39,NLP Engineer,No
+STU1227,Male,AIML,72.8,78.9,6.38,0,1,Yes,17.59,AI Research Engineer,No
+STU1228,Female,IT,85.1,71.6,6.3,1,0,Yes,9.57,Business Analyst,Yes
+STU1229,Male,AIDS,85.1,78.4,7.06,2,0,Yes,16.47,Computer Vision Engineer,Yes
+STU1230,Female,AIML,89.6,63.2,7.08,0,0,Yes,17.38,Deep Learning Engineer,No
+STU1231,Male,Biotech,83.9,70.9,7.95,0,1,No,,NA,No
+STU1232,Female,AIML,65.5,83.2,7.69,0,0,Yes,15.3,AI Research Engineer,Yes
+STU1233,Female,Civil,72.8,84.5,7.23,0,1,No,,NA,Yes
+STU1234,Male,Biotech,63.9,58.4,6.77,0,0,No,,NA,Yes
+STU1235,Female,Data Science,65.2,91.5,7.95,0,0,Yes,15.92,Data Engineering,Yes
+STU1236,Male,AIML,95.0,76.1,5.53,1,1,Yes,16.84,Machine Learning Engineer,No
+STU1237,Female,CSE,72.6,78.0,7.31,2,0,Yes,14.78,UI/UX Design,No
+STU1238,Male,ECE,89.0,75.1,7.37,1,0,Yes,11.81,Embedded Systems,No
+STU1239,Male,IT,74.4,73.4,7.54,0,0,No,,NA,Yes
+STU1240,Female,Civil,60.9,60.5,7.68,0,0,Yes,8.51,QA Automation,Yes
+STU1241,Male,Data Science,79.7,72.2,8.07,0,0,Yes,14.15,Product Management,Yes
+STU1242,Female,Data Science,81.5,68.6,7.42,0,1,Yes,17.08,Machine Learning Engineer,Yes
+STU1243,Female,EEE,80.0,64.2,6.7,0,0,No,,NA,Yes
+STU1244,Female,CSE,61.0,84.3,7.77,0,1,Yes,15.11,NLP Engineer,No
+STU1245,Male,AIML,80.6,83.8,7.83,0,0,Yes,14.81,Deep Learning Engineer,No
+STU1246,Male,Data Science,88.1,55.6,8.9,0,0,Yes,15.9,Finance & Operations,Yes
+STU1247,Male,IT,71.8,74.3,6.25,2,0,No,,NA,Yes
+STU1248,Male,IT,70.7,75.9,7.87,0,0,Yes,10.55,Business Intelligence Analyst,No
+STU1249,Female,AIDS,71.9,59.9,6.72,0,0,No,,NA,No
+STU1250,Male,ECE,64.5,64.2,6.57,2,0,Yes,10.9,Full Stack Development,Yes
+STU1251,Male,AIDS,68.5,100.0,8.35,0,0,Yes,15.9,Machine Learning Engineer,No
+STU1252,Female,Data Science,79.8,65.4,7.84,0,0,Yes,17.26,Deep Learning Engineer,No
+STU1253,Female,AIML,72.2,75.2,8.03,0,0,Yes,16.26,Business Intelligence Analyst,Yes
+STU1254,Female,AIML,77.0,85.5,9.7,0,0,Yes,20.08,Data Analyst,No
+STU1255,Female,Data Science,77.7,91.7,6.77,0,0,Yes,15.72,AI Research Engineer,No
+STU1256,Male,IT,96.1,81.1,6.84,1,1,Yes,9.76,Data Engineering,No
+STU1257,Male,IT,84.3,83.7,6.89,0,1,Yes,12.7,Finance & Operations,No
+STU1258,Male,Data Science,62.3,66.7,7.96,0,1,Yes,17.4,Data Analyst,No
+STU1259,Male,AIML,77.3,80.2,7.18,1,0,Yes,17.22,Computer Vision Engineer,No
+STU1260,Male,Data Science,64.6,77.8,7.56,0,0,No,,NA,No
+STU1261,Female,Data Science,83.6,84.8,7.95,0,1,Yes,16.85,Computer Vision Engineer,No
+STU1262,Male,IT,82.6,73.3,8.15,0,1,Yes,14.81,AI Research Engineer,No
+STU1263,Male,IT,82.3,76.1,5.91,0,1,Yes,13.47,QA Automation,No
+STU1264,Male,ECE,65.2,63.2,7.64,0,1,Yes,10.91,Cloud & DevOps,No
+STU1265,Male,AIDS,77.6,80.8,8.35,0,1,Yes,17.57,Computer Vision Engineer,No
+STU1266,Female,AIML,78.3,83.4,7.43,0,0,No,,NA,Yes
+STU1267,Male,IT,79.0,69.4,6.94,0,0,Yes,12.4,Software Development,No
+STU1268,Female,Civil,74.9,76.2,7.01,0,1,Yes,8.71,Business Analyst,No
+STU1269,Male,Biotech,90.6,65.1,6.97,0,0,Yes,8.26,Data Scientist,No
+STU1270,Female,AIML,73.6,88.5,7.23,0,0,Yes,15.99,Embedded Systems,No
+STU1271,Male,CSE,88.3,59.1,7.58,0,1,Yes,13.43,Full Stack Development,No
+STU1272,Male,CSE,86.9,74.8,7.64,0,0,Yes,11.29,UI/UX Design,Yes
+STU1273,Female,Biotech,72.8,88.1,8.36,0,0,Yes,9.83,Business Analyst,No
+STU1274,Male,ECE,74.4,69.5,9.47,0,0,Yes,13.21,Product Management,Yes
+STU1275,Female,IT,93.8,68.8,8.71,0,1,Yes,17.63,AI Research Engineer,No
+STU1276,Male,Civil,75.2,60.6,7.02,1,0,No,,NA,Yes
+STU1277,Female,Biotech,68.0,66.3,6.57,0,0,Yes,5.84,Data Analyst,No
+STU1278,Male,AIDS,80.3,89.5,7.37,2,1,Yes,18.11,NLP Engineer,Yes
+STU1279,Male,AIML,87.8,71.9,6.5,1,1,Yes,16.53,AI Research Engineer,Yes
+STU1280,Female,ECE,84.7,62.8,7.36,2,0,No,,NA,No
+STU1281,Male,AIDS,79.7,78.9,7.74,0,0,Yes,13.88,Marketing & HR,No
+STU1282,Male,CSE,100.0,67.6,7.66,0,0,Yes,14.58,Business Analyst,No
+STU1283,Female,Data Science,71.8,68.4,6.92,0,0,Yes,12.23,Data Scientist,No
+STU1284,Male,Data Science,89.9,88.2,6.83,0,1,Yes,16.92,AI Research Engineer,Yes
+STU1285,Male,AIDS,69.7,78.7,6.89,2,0,Yes,15.9,Mobile App Development,No
+STU1286,Female,EEE,84.3,76.0,6.9,2,0,No,,NA,Yes
+STU1287,Male,AIDS,93.5,92.0,6.04,0,0,No,,NA,Yes
+STU1288,Female,Civil,74.1,76.9,6.85,2,0,No,,NA,Yes
+STU1289,Female,AIDS,84.6,94.1,7.7,0,1,Yes,16.91,NLP Engineer,No
+STU1290,Male,IT,70.0,60.2,7.24,1,0,Yes,12.1,Cybersecurity,No
+STU1291,Male,AIML,77.7,91.9,6.74,0,0,Yes,12.93,AI Research Engineer,Yes
+STU1292,Male,Civil,80.2,73.8,6.93,1,0,Yes,6.48,Product Management,No
+STU1293,Female,Data Science,100.0,68.7,8.47,0,0,Yes,18.24,Deep Learning Engineer,No
+STU1294,Male,AIML,88.4,80.8,6.96,2,1,Yes,17.95,Finance & Operations,No
+STU1295,Male,ECE,83.8,70.4,9.06,0,0,Yes,13.27,Marketing & HR,No
+STU1296,Female,AIDS,89.1,82.2,7.93,0,1,Yes,15.98,Data Scientist,Yes
+STU1297,Female,ECE,88.7,85.7,7.86,0,0,Yes,10.15,Embedded Systems,No
+STU1298,Male,AIML,84.5,72.3,8.64,0,0,Yes,15.16,Business Intelligence Analyst,No
+STU1299,Male,AIML,90.1,65.8,7.53,0,0,Yes,14.83,Data Scientist,No
+STU1300,Male,IT,74.1,74.3,7.73,0,0,Yes,14.48,Full Stack Development,No
+STU1301,Female,EEE,79.9,74.5,8.55,0,0,Yes,8.6,Mobile App Development,Yes
+STU1302,Male,AIML,85.5,80.5,6.18,2,1,No,,NA,No
+STU1303,Female,Data Science,74.9,76.2,9.35,0,1,Yes,21.61,Data Engineering,No
+STU1304,Male,ECE,93.8,73.0,7.62,0,0,Yes,9.65,QA Automation,No
+STU1305,Male,AIML,84.1,75.9,7.65,0,1,Yes,16.7,Deep Learning Engineer,No
+STU1306,Female,IT,79.9,84.7,7.0,0,0,Yes,12.25,Product Management,No
+STU1307,Male,AIDS,79.3,67.0,6.48,0,0,Yes,15.26,Business Intelligence Analyst,No
+STU1308,Male,EEE,62.8,68.4,8.48,0,1,Yes,11.81,Product Management,No
+STU1309,Male,IT,93.7,73.3,7.74,0,0,No,,NA,Yes
+STU1310,Male,Civil,96.8,59.5,6.9,2,1,No,,NA,Yes
+STU1311,Male,Data Science,82.4,69.0,5.42,1,0,Yes,13.37,Data Analyst,No
+STU1312,Male,AIDS,85.1,76.4,6.48,1,1,Yes,14.3,Data Analyst,Yes
+STU1313,Male,ECE,65.2,82.7,6.89,0,0,Yes,9.81,Mobile App Development,Yes
+STU1314,Male,AIML,77.0,92.5,7.99,0,0,Yes,15.44,NLP Engineer,No
+STU1315,Male,AIML,62.7,67.1,6.44,1,0,Yes,16.01,AI Research Engineer,Yes
+STU1316,Female,AIDS,80.4,71.6,7.36,0,1,Yes,17.76,Software Development,Yes
+STU1317,Male,AIDS,65.5,88.4,7.72,0,1,Yes,17.43,NLP Engineer,No
+STU1318,Female,Data Science,89.2,77.4,7.33,1,1,Yes,13.79,Deep Learning Engineer,Yes
+STU1319,Female,AIML,83.7,78.5,7.81,0,0,Yes,18.06,Computer Vision Engineer,No
+STU1320,Male,CSE,91.3,76.0,7.98,0,0,Yes,12.4,Cloud & DevOps,Yes
+STU1321,Male,AIML,77.1,88.4,8.04,0,0,Yes,19.06,Deep Learning Engineer,Yes
+STU1322,Female,IT,96.0,73.6,6.79,0,1,Yes,14.7,Data Scientist,No
+STU1323,Female,AIDS,79.3,67.2,6.11,0,1,Yes,13.63,Data Engineering,No
+STU1324,Male,Civil,71.5,69.5,8.16,0,0,Yes,10.42,Product Management,No
+STU1325,Male,CSE,73.5,50.0,5.7,0,0,No,,NA,No
+STU1326,Male,IT,85.6,81.9,5.97,0,0,No,,NA,No
+STU1327,Female,EEE,68.3,73.5,7.78,0,0,Yes,9.78,Cybersecurity,No
+STU1328,Female,Civil,66.4,89.0,7.4,1,0,No,,NA,Yes
+STU1329,Female,ECE,75.8,74.3,8.19,0,1,Yes,10.82,NLP Engineer,Yes
+STU1330,Female,ECE,57.6,71.5,7.59,0,1,Yes,12.14,Data Engineering,No
+STU1331,Male,IT,68.0,71.2,6.79,1,1,Yes,13.66,Data Scientist,No
+STU1332,Male,ECE,84.4,68.3,9.02,0,0,Yes,11.34,Embedded Systems,Yes
+STU1333,Male,AIML,92.0,83.2,7.92,0,0,Yes,18.84,Deep Learning Engineer,No
+STU1334,Male,IT,71.5,81.0,7.45,1,0,Yes,12.33,MLOps Engineer,Yes
+STU1335,Male,Data Science,87.0,80.4,7.75,0,1,Yes,15.62,Data Analyst,No
+STU1336,Male,ECE,72.6,87.2,8.34,0,1,Yes,14.88,Deep Learning Engineer,No
+STU1337,Male,AIML,98.8,67.1,7.58,0,0,Yes,14.03,Deep Learning Engineer,No
+STU1338,Male,EEE,80.0,67.5,8.96,0,0,Yes,9.6,UI/UX Design,No
+STU1339,Male,AIDS,74.8,78.2,6.96,0,0,Yes,14.45,Full Stack Development,No
+STU1340,Male,AIDS,72.3,73.8,7.87,0,0,Yes,17.86,Marketing & HR,Yes
+STU1341,Male,Data Science,95.3,78.4,9.33,0,1,Yes,18.33,Marketing & HR,Yes
+STU1342,Female,Data Science,79.2,80.1,7.43,0,1,Yes,15.62,AI Research Engineer,No
+STU1343,Male,Data Science,75.4,57.3,6.48,0,1,Yes,16.08,NLP Engineer,No
+STU1344,Male,EEE,84.5,69.2,7.76,0,1,Yes,12.86,QA Automation,Yes
+STU1345,Male,AIML,65.7,59.4,8.82,0,1,Yes,18.39,Deep Learning Engineer,No
+STU1346,Female,AIDS,88.5,90.8,7.6,0,1,Yes,18.72,Machine Learning Engineer,No
+STU1347,Female,Civil,88.8,73.6,6.99,2,1,No,,NA,Yes
+STU1348,Male,Data Science,86.8,80.5,7.24,0,0,Yes,12.53,Marketing & HR,No
+STU1349,Male,Biotech,92.8,87.8,5.98,1,0,Yes,4.0,Business Intelligence Analyst,No
+STU1350,Female,Data Science,82.0,78.9,6.84,0,1,Yes,15.44,Business Intelligence Analyst,No
+STU1351,Male,Biotech,72.5,67.3,7.63,0,0,Yes,6.36,Marketing & HR,Yes
+STU1352,Female,IT,89.7,79.4,7.38,0,0,Yes,10.51,Software Development,No
+STU1353,Male,ECE,85.7,50.0,7.07,0,0,Yes,7.33,Mobile App Development,Yes
+STU1354,Male,Data Science,60.6,70.4,8.43,0,1,Yes,20.0,NLP Engineer,No
+STU1355,Male,Data Science,65.1,85.6,6.39,0,0,Yes,14.44,Data Scientist,No
+STU1356,Male,CSE,81.5,73.5,6.98,0,1,Yes,12.65,Deep Learning Engineer,Yes
+STU1357,Female,EEE,78.8,61.2,7.83,0,0,Yes,11.01,Cloud & DevOps,No
+STU1358,Male,AIDS,73.1,58.4,8.3,0,0,Yes,16.53,Marketing & HR,No
+STU1359,Male,Data Science,93.0,82.5,7.01,0,1,Yes,17.69,Software Development,No
+STU1360,Male,Civil,74.5,70.8,7.09,0,1,No,,NA,Yes
+STU1361,Male,AIML,81.8,78.3,9.27,0,0,Yes,16.45,AI Research Engineer,No
+STU1362,Female,AIML,80.4,71.4,8.33,0,0,Yes,17.3,QA Automation,No
+STU1363,Male,Data Science,77.3,73.6,7.22,0,0,Yes,13.86,Deep Learning Engineer,Yes
+STU1364,Male,Biotech,78.5,81.3,8.05,0,0,Yes,8.86,Marketing & HR,No
+STU1365,Male,AIDS,78.8,54.0,7.33,1,0,Yes,15.14,Data Scientist,No
+STU1366,Male,AIML,81.5,84.0,8.22,0,0,Yes,15.93,MLOps Engineer,No
+STU1367,Male,AIDS,98.9,72.6,5.0,2,0,Yes,14.0,Software Development,No
+STU1368,Male,ECE,67.6,80.1,8.4,0,0,Yes,13.65,Data Analyst,No
+STU1369,Male,AIML,71.8,93.1,6.45,1,0,Yes,16.67,Machine Learning Engineer,No
+STU1370,Male,EEE,80.2,82.7,7.23,0,0,No,,NA,No
+STU1371,Male,Mechanical,79.5,77.6,7.85,0,1,Yes,7.58,Data Engineering,Yes
+STU1372,Male,Data Science,77.4,76.0,9.56,0,1,Yes,18.77,Computer Vision Engineer,Yes
+STU1373,Male,Biotech,89.1,85.9,8.35,0,1,No,,NA,No
+STU1374,Male,IT,66.6,90.3,7.97,0,0,No,,NA,No
+STU1375,Female,IT,81.0,66.5,6.37,0,0,Yes,9.87,NLP Engineer,No
+STU1376,Male,AIDS,81.3,77.2,7.34,0,1,Yes,15.42,MLOps Engineer,No
+STU1377,Male,AIDS,94.1,78.5,7.78,0,0,Yes,17.84,Deep Learning Engineer,No
+STU1378,Female,CSE,87.6,85.9,7.18,0,1,Yes,14.02,Computer Vision Engineer,Yes
+STU1379,Female,AIML,84.0,81.0,6.3,0,0,Yes,13.79,Data Analyst,No
+STU1380,Male,Data Science,91.8,72.5,7.13,0,0,No,,NA,No
+STU1381,Male,CSE,76.3,74.2,7.51,0,0,Yes,15.28,Data Analyst,No
+STU1382,Male,IT,63.6,89.9,6.41,0,1,No,,NA,Yes
+STU1383,Male,CSE,68.1,52.5,6.64,0,0,Yes,12.91,Cloud & DevOps,Yes
+STU1384,Female,AIML,64.8,90.4,6.82,0,1,Yes,13.9,Data Scientist,Yes
+STU1385,Female,IT,71.1,96.5,8.31,0,1,Yes,11.65,Data Analyst,No
+STU1386,Female,IT,74.8,50.0,8.28,0,0,Yes,11.0,Mobile App Development,Yes
+STU1387,Male,Mechanical,64.1,57.5,9.46,0,0,Yes,12.04,Business Analyst,No
+STU1388,Female,IT,100.0,87.8,8.32,0,1,Yes,14.4,Data Engineering,Yes
+STU1389,Female,IT,83.9,82.5,7.91,0,0,Yes,12.32,Deep Learning Engineer,No
+STU1390,Male,ECE,80.8,75.0,8.08,0,1,Yes,11.22,Embedded Systems,Yes
+STU1391,Female,CSE,70.5,71.2,7.34,2,1,Yes,15.13,Cybersecurity,No
+STU1392,Female,Mechanical,77.0,64.1,5.88,2,0,No,,NA,Yes
+STU1393,Male,AIML,79.8,87.9,6.41,0,0,Yes,12.88,NLP Engineer,No
+STU1394,Female,Mechanical,62.3,64.1,8.23,0,0,No,,NA,No
+STU1395,Male,AIML,68.2,71.8,8.25,0,1,Yes,18.01,Deep Learning Engineer,No
+STU1396,Male,CSE,68.3,75.1,7.9,0,0,Yes,12.18,Product Management,No
+STU1397,Male,AIDS,72.0,77.2,6.2,2,1,No,,NA,Yes
+STU1398,Male,CSE,82.4,73.8,5.97,2,1,Yes,11.14,Software Development,Yes
+STU1399,Male,AIDS,80.2,87.6,7.9,0,0,Yes,17.42,Data Engineering,No
